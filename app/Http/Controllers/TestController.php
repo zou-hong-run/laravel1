@@ -69,6 +69,7 @@ class TestController extends Controller
     }
 
     public function test3(){
+        
         return view('admin.test.test3');
     }
 }
